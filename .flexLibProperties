@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="ken39arg.commands.CommandContainer"/>
+<classEntry path="ken39arg.logging.FirebugLogging"/>
+<classEntry path="ken39arg.event.DownLoadEvent"/>
+<classEntry path="ken39arg.commands.ext.CheckCommand"/>
+<classEntry path="ken39arg.commands.ICommand"/>
+<classEntry path="ken39arg.commands.FrameWaitCommand"/>
+<classEntry path="ken39arg.event.ConnectionEvent"/>
+<classEntry path="ken39arg.commands.LoopCommand"/>
+<classEntry path="ken39arg.logging.TraceLogging"/>
+<classEntry path="ken39arg.component.SimpleVideoMonitor"/>
+<classEntry path="ken39arg.data.DBObject"/>
+<classEntry path="ken39arg.component.MoviePlayerBase"/>
+<classEntry path="ken39arg.component.Marquee"/>
+<classEntry path="ken39arg.event.SerialCommandEvent"/>
+<classEntry path="ken39arg.commands.ext.TransactionLockSQLCommand"/>
+<classEntry path="ken39arg.logging.FilePutLogging"/>
+<classEntry path="ken39arg.commands.ext.WriteFileCommand"/>
+<classEntry path="ken39arg.logging.ILogging"/>
+<classEntry path="ken39arg.commands.BatchCommand"/>
+<classEntry path="ken39arg.data.TableObject"/>
+<classEntry path="ken39arg.util.SnapShot"/>
+<classEntry path="ken39arg.commands.ext.TweenerCommand"/>
+<classEntry path="ken39arg.commands.ext.SetPropertyCommand"/>
+<classEntry path="ken39arg.logging.PararelLogging"/>
+<classEntry path="ken39arg.commands.RemotingCommand"/>
+<classEntry path="ken39arg.commands.ext.FileUploadCommand"/>
+<classEntry path="ken39arg.commands.ext.LoaderCommand"/>
+<classEntry path="ken39arg.core.ClassUtil"/>
+<classEntry path="ken39arg.commands.ext.FilePutContents"/>
+<classEntry path="ken39arg.commands.CommandBase"/>
+<classEntry path="ken39arg.commands.AsyncCommand"/>
+<classEntry path="ken39arg.commands.ext.SQLExecuteCommand"/>
+<classEntry path="ken39arg.commands.Command"/>
+<classEntry path="ken39arg.logging.RemoteLogging"/>
+<classEntry path="ken39arg.data.ColumnObject"/>
+<classEntry path="ken39arg.commands.ext.DownLoadCommand"/>
+<classEntry path="ken39arg.event.SQLResultEvent"/>
+<classEntry path="ken39arg.commands.ext.URLLoaderCommand"/>
+<classEntry path="ken39arg.commands.ParallelCommand"/>
+<classEntry path="ken39arg.commands.NullCommand"/>
+<classEntry path="ken39arg.commands.CancelableSerialCommand"/>
+<classEntry path="ken39arg.util.KAUtil"/>
+<classEntry path="ken39arg.commands.ext.XMLLoaderCommand"/>
+<classEntry path="ken39arg.commands.ext.ProcessCommand"/>
+<classEntry path="ken39arg.commands.ext.POSTCommand"/>
+<classEntry path="ken39arg.logging.NullLogging"/>
+<classEntry path="ken39arg.event.TableValidateErrorEvent"/>
+<classEntry path="ken39arg.commands.WaitCommand"/>
+<classEntry path="ken39arg.core.Iterator"/>
+<classEntry path="ken39arg.commands.SerialCommand"/>
+<classEntry path="ken39arg.logging.Logger"/>
+<classEntry path="ken39arg.commands.SerialCommandStack"/>
+<classEntry path="ken39arg.core.ClassLoader"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>
